@@ -1,0 +1,22 @@
+name: hotspotlens
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - ipykernel
+  - jupyterlab
+  - matplotlib
+  - notebook
+  - numpy
+  - pandas
+  - scikit-learn
+  - scipy
+  - seaborn
+  - r-base
+  - r-broom
+  - r-dplyr
+  - r-forcats
+  - r-ggplot2
+  - r-irkernel
+  - r-tibble
+  - r-tidyverse
